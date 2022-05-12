@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Aplikasi HR</string>
+    <string name="date">Birth Date</string>
+    <string name="nik">NIK</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="note">Note</string>
+    <string name="leave_duration">Leave Duration</string>
+    <string name="leave_date">Leave Date</string>
+    <string name="role">Role</string>
+    <string name="submit">Submit</string>
+
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="delete">Hapus</string>
+</resources>
